@@ -31,6 +31,6 @@ def compress_video(input_file, output_file, crf=28, preset='fast'):
 
 
 if __name__ == '__main__':
-    input_video = '/Users/andychen/software/programSoftwareSpace/PycharmSpace/DouyinLiveRecorder/downloads/抖音直播/ChiPin/ChiPin_做小红书：如何出爆款、接广告_2024-12-10_08-15-37.mp4'
-    output_video = '/Users/andychen/software/programSoftwareSpace/PycharmSpace/DouyinLiveRecorder/downloads/抖音直播/ChiPin/ChiPin_做小红书：如何出爆款、接广告_2024-12-10_08-15-37-压缩.mp4'
+    input_video = '/Users/andychen/software/programSoftwareSpace/PycharmSpace/DouyinLiveRecorder/downloads/抖音直播/ChiPin/ChiPin_做小红书：如何出爆款、接广告_2024-12-07_08-19-33.mp4'
+    output_video = '/Users/andychen/software/programSoftwareSpace/PycharmSpace/DouyinLiveRecorder/downloads/抖音直播/ChiPin/ChiPin_做小红书：如何出爆款、接广告_2024-12-07_08-19-33-压缩.mp4'
     compress_video(input_video, output_video)
